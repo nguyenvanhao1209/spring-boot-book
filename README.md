@@ -42,7 +42,7 @@ Clone the repository:
   ```
 - **Get All Books**
   ```http
-    GET /api/books/
+  GET /api/books/
   ```
 - **Search Books**
     ```http
@@ -50,15 +50,15 @@ Clone the repository:
     ```
 - **Get Book by ID**
     ```http
-        GET /api/books/{id}
+    GET /api/books/{id}
     ```
 - **Update a Book**
     ```http
-        PUT /api/books/{id}
+    PUT /api/books/{id}
     ```
 - **Delete a Book**
     ```http
-        DELETE /api/books/{id}
+    DELETE /api/books/{id}
     ```
 ### Publisher Endpoints
 
